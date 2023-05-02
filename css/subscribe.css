@@ -1,0 +1,11 @@
+.container{
+    margin-top: 20px;
+    outline: 2px dotted black;
+    height: 45rem;
+}
+h2{
+    text-align: center;
+}
+.buttonfield{
+   text-align: center;
+}
